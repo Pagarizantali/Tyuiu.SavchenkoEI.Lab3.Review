@@ -1,0 +1,178 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SolveArray.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveArray.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveArray.Lib.dll": {}
+        }
+      },
+      "SolveCalculate.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveCalculate.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveCalculate.Lib.dll": {}
+        }
+      },
+      "SolveMathFirstExpression.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveMathFirstExpression.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveMathFirstExpression.Lib.dll": {}
+        }
+      },
+      "SolveMathSecondExpression.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveMathSecondExpression.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveMathSecondExpression.Lib.dll": {}
+        }
+      },
+      "SolveTabMathFuction.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveTabMathFuction.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveTabMathFuction.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolveArray.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveArray.Lib/SolveArray.Lib.csproj",
+      "msbuildProject": "../SolveArray.Lib/SolveArray.Lib.csproj"
+    },
+    "SolveCalculate.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveCalculate.Lib/SolveCalculate.Lib.csproj",
+      "msbuildProject": "../SolveCalculate.Lib/SolveCalculate.Lib.csproj"
+    },
+    "SolveMathFirstExpression.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveMathFirstExpression.Lib/SolveMathFirstExpression.Lib.csproj",
+      "msbuildProject": "../SolveMathFirstExpression.Lib/SolveMathFirstExpression.Lib.csproj"
+    },
+    "SolveMathSecondExpression.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveMathSecondExpression.Lib/SolveMathSecondExpression.Lib.csproj",
+      "msbuildProject": "../SolveMathSecondExpression.Lib/SolveMathSecondExpression.Lib.csproj"
+    },
+    "SolveTabMathFuction.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveTabMathFuction.Lib/SolveTabMathFuction.Lib.csproj",
+      "msbuildProject": "../SolveTabMathFuction.Lib/SolveTabMathFuction.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SolveArray.Lib >= 1.0.0",
+      "SolveCalculate.Lib >= 1.0.0",
+      "SolveMathFirstExpression.Lib >= 1.0.0",
+      "SolveMathSecondExpression.Lib >= 1.0.0",
+      "SolveTabMathFuction.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\darya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\Tyuiu.SavchenkoEI.Lab3.TaskReview.V9\\Tyuiu.SavchenkoEI.Lab3.TaskReview.V9.csproj",
+      "projectName": "Tyuiu.SavchenkoEI.Lab3.TaskReview.V9",
+      "projectPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\Tyuiu.SavchenkoEI.Lab3.TaskReview.V9\\Tyuiu.SavchenkoEI.Lab3.TaskReview.V9.csproj",
+      "packagesPath": "C:\\Users\\darya\\.nuget\\packages\\",
+      "outputPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\Tyuiu.SavchenkoEI.Lab3.TaskReview.V9\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\darya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveArray.Lib\\SolveArray.Lib.csproj": {
+              "projectPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveArray.Lib\\SolveArray.Lib.csproj"
+            },
+            "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveCalculate.Lib\\SolveCalculate.Lib.csproj": {
+              "projectPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveCalculate.Lib\\SolveCalculate.Lib.csproj"
+            },
+            "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveMathFirstExpression.Lib\\SolveMathFirstExpression.Lib.csproj": {
+              "projectPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveMathFirstExpression.Lib\\SolveMathFirstExpression.Lib.csproj"
+            },
+            "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveMathSecondExpression.Lib\\SolveMathSecondExpression.Lib.csproj": {
+              "projectPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveMathSecondExpression.Lib\\SolveMathSecondExpression.Lib.csproj"
+            },
+            "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveTabMathFuction.Lib\\SolveTabMathFuction.Lib.csproj": {
+              "projectPath": "D:\\МОЕ\\магистр\\пупупу\\3 МиСПКП\\Tyuiu.SavchenkoEI.Lab3.Review\\Lab3\\SolveTabMathFuction.Lib\\SolveTabMathFuction.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

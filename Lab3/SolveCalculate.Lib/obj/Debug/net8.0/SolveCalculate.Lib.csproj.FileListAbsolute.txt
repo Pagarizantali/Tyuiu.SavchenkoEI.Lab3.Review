@@ -1,0 +1,11 @@
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\bin\Debug\net8.0\SolveCalculate.Lib.deps.json
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\bin\Debug\net8.0\SolveCalculate.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\bin\Debug\net8.0\SolveCalculate.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.AssemblyInfoInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.AssemblyInfo.cs
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.csproj.CoreCompileInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\refint\SolveCalculate.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveCalculate.Lib\obj\Debug\net8.0\ref\SolveCalculate.Lib.dll

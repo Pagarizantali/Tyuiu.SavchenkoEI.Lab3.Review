@@ -1,0 +1,11 @@
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\bin\Debug\net8.0\SolveArray.Lib.deps.json
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\bin\Debug\net8.0\SolveArray.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\bin\Debug\net8.0\SolveArray.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.AssemblyInfoInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.AssemblyInfo.cs
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.csproj.CoreCompileInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\refint\SolveArray.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveArray.Lib\obj\Debug\net8.0\ref\SolveArray.Lib.dll

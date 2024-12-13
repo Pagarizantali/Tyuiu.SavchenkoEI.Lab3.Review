@@ -1,0 +1,11 @@
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\bin\Debug\net8.0\SolveMathFirstExpression.Lib.deps.json
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\bin\Debug\net8.0\SolveMathFirstExpression.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\bin\Debug\net8.0\SolveMathFirstExpression.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\SolveMathFirstExpression.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\SolveMathFirstExpression.Lib.AssemblyInfoInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\SolveMathFirstExpression.Lib.AssemblyInfo.cs
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\SolveMathFirstExpression.Lib.csproj.CoreCompileInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\SolveMathFirstExpression.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\refint\SolveMathFirstExpression.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\SolveMathFirstExpression.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathFirstExpression.Lib\obj\Debug\net8.0\ref\SolveMathFirstExpression.Lib.dll

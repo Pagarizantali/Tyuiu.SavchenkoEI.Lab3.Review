@@ -1,0 +1,11 @@
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\bin\Debug\net8.0\SolveMathSecondExpression.Lib.deps.json
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\bin\Debug\net8.0\SolveMathSecondExpression.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\bin\Debug\net8.0\SolveMathSecondExpression.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.AssemblyInfoInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.AssemblyInfo.cs
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.csproj.CoreCompileInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\refint\SolveMathSecondExpression.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveMathSecondExpression.Lib\obj\Debug\net8.0\ref\SolveMathSecondExpression.Lib.dll

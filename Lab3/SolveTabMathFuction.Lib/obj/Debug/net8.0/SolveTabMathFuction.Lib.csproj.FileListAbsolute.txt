@@ -1,0 +1,11 @@
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\bin\Debug\net8.0\SolveTabMathFuction.Lib.deps.json
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\bin\Debug\net8.0\SolveTabMathFuction.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\bin\Debug\net8.0\SolveTabMathFuction.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.AssemblyInfoInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.AssemblyInfo.cs
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.csproj.CoreCompileInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\refint\SolveTabMathFuction.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.SavchenkoEI.Lab3.Review\Lab3\SolveTabMathFuction.Lib\obj\Debug\net8.0\ref\SolveTabMathFuction.Lib.dll
